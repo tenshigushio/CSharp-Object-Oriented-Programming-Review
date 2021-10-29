@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ Author: Maria Angelica Gucio
+ Date: October 29, 2021
+ Project Name: Activity 1 OOP
+ Description: Created as a review before diving into XAMARIN.FORMS
+ */
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
