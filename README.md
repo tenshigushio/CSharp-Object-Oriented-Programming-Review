@@ -33,6 +33,7 @@ The Deduction is computed based on the following:
 ![image](https://user-images.githubusercontent.com/63901246/139385746-5032e0e8-7ca1-4675-8280-08701d86f6eb.png)
 
 
+![image](https://user-images.githubusercontent.com/63901246/139385901-e31c83eb-b97b-4273-b7d3-a2b23cade725.png)
 
 
 
