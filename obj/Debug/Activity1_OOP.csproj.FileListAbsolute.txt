@@ -1,0 +1,7 @@
+F:\VS2019\projects\csharpOnly\Activity1_OOP\bin\Debug\Activity1_OOP.exe.config
+F:\VS2019\projects\csharpOnly\Activity1_OOP\bin\Debug\Activity1_OOP.exe
+F:\VS2019\projects\csharpOnly\Activity1_OOP\bin\Debug\Activity1_OOP.pdb
+F:\VS2019\projects\csharpOnly\Activity1_OOP\obj\Debug\Activity1_OOP.csproj.AssemblyReference.cache
+F:\VS2019\projects\csharpOnly\Activity1_OOP\obj\Debug\Activity1_OOP.csproj.CoreCompileInputs.cache
+F:\VS2019\projects\csharpOnly\Activity1_OOP\obj\Debug\Activity1_OOP.exe
+F:\VS2019\projects\csharpOnly\Activity1_OOP\obj\Debug\Activity1_OOP.pdb
