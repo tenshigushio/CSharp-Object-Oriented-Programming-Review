@@ -13,6 +13,7 @@ The user will be asked for Doctor's information.
 In the Field of Specialization, the user either inputs Pediatrician, Ob-Gynecologist, or Neurologist.
 Salary is calculated by multiplying the daily rate by the numbers of days worked in a month.
 Deduction is the salary deduction based on the following specifications:
+
 ![image](https://user-images.githubusercontent.com/63901246/139385638-38dc6f79-4431-4d22-bef8-cd9c359613fb.png)
 
 
@@ -26,7 +27,9 @@ Deduction is the salary deduction based on the following specifications:
 The User will be asked for Programmer's Information
 Salary is calculated by multiplying the days worked 950 as the daily rate.
 
+
 The Deduction is computed based on the following:
+
 ![image](https://user-images.githubusercontent.com/63901246/139385746-5032e0e8-7ca1-4675-8280-08701d86f6eb.png)
 
 
